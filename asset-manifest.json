@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gabechachas.io/static/css/main.394ae175.css",
+    "main.js": "/gabechachas.io/static/js/main.329c2d0b.js",
+    "index.html": "/gabechachas.io/index.html",
+    "main.394ae175.css.map": "/gabechachas.io/static/css/main.394ae175.css.map",
+    "main.329c2d0b.js.map": "/gabechachas.io/static/js/main.329c2d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.394ae175.css",
+    "static/js/main.329c2d0b.js"
+  ]
+}
